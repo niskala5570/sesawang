@@ -2,7 +2,7 @@
 other = "Alamak! Tiada laman dijumpai :("
 
 [404_info]
-other = "Puas dah kami cari, tapi tak jumpa juga."
+other = "Puas dah cari, tetap tak jumpa."
 
 [about_me]
 other = "Tentang"
@@ -107,7 +107,7 @@ other = "Nama"
 other = "E-mel"
 
 [contact_email_help]
-other = "Saya tak akan dedahkan e-mel ini kepada sesipa."
+other = "E-mel tidak akan didedahkan."
 
 [contact_file]
 other = "Fail"
