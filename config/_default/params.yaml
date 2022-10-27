@@ -15,7 +15,7 @@ keywords: Hugo, Bootstrap, Blog Theme
 
 # logo: images/logo.png # Logo image. Default to images/logo.webp.
 # logo: false # Disable Logo
-brand: HBS
+brand: NKL
 
 palette: green # Default palette. Optional. You'll need to clear the browser cache after modifying this.
 # Available palettes. Default to ALL. Empty array means disable.
@@ -144,7 +144,7 @@ creativeCommons:
   # sa: true # Adaptations must be shared under the same terms.
 
 utterances:
-  repo: niskala5570/sesaang # Replace with your repository.
+  repo: niskala5570/sesawang # Replace with your repository.
   #issueTerm: pathname # pathname, url, title, og:title
   label: ulasan
   # By default, light and dark mode correspond to github-light and github-dark, respectively.
@@ -208,7 +208,7 @@ fontSize:
 pwa:
   manifest:
     # name:  # Default to site title.
-    short_name: HBS
+    short_name: NKL
     # display: fullscreen # Default to standalone.
     # description:  # Default to site description.
     # theme_color: 
@@ -241,9 +241,9 @@ topAppBar:
     patreon: razonyang
     paypal: razonyang
 
-#docs:
-  # nav:
-    # expand: true # Expand docs navigations.
+docs:
+   nav:
+     expand: true # Expand docs navigations.
 
 #feeds:
   # content: true

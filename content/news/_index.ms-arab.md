@@ -1,5 +1,5 @@
 ---
-title: Berita
+title: بريتا
 menu:
   main:
     weight: 1

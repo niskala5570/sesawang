@@ -1,0 +1,378 @@
+[404_title]
+other = "Alamak! Tiada laman dijumpai :("
+
+[404_info]
+other = "Puas dah kami cari, tapi tak jumpa juga."
+
+[about_me]
+other = "Tentang"
+
+[actions]
+other = "Tindakan"
+
+[alipay]
+other = "Alipay"
+
+[all]
+other = "Semua"
+
+[archives]
+other = "Arkib"
+
+[authors]
+other = "Pengarang"
+
+[button_copy_url]
+other = "Salin URL"
+
+[button_reload]
+other = "Muat semula"
+
+[button_social_share]
+other = "Kongsi"
+
+[button_submit]
+other = "Hantar"
+
+[buy_me_a_coffee]
+other = "Belikan saya secangkir kopi"
+
+[categories]
+other = "Kategori"
+
+[color_blue]
+other = "Biru"
+
+[color_blue_gray]
+other = "Biru Abu"
+
+[color_brown]
+other = "Coklat"
+
+[color_cyan]
+other = "Sian"
+
+[color_green]
+other = "Hijau"
+
+[color_indigo]
+other = "Indigo"
+
+[color_orange]
+other = "Jingga"
+
+[color_pink]
+other = "Jambu"
+
+[color_purple]
+other = "Ungu"
+
+[color_red]
+other = "Merah"
+
+[color_teal]
+other = "Teal"
+
+[color_yellow]
+other = "Kuning"
+
+[comments]
+other = "Ulasan"
+
+[comments_email]
+other = "E-mel"
+
+[comments_message]
+other = "Pesanan"
+
+[comments_name]
+other = "Nama"
+
+[comments_reply]
+other = "Balas"
+
+[comments_reply_to]
+other = "Balas kepada"
+
+[comments_submit]
+other = "Kirim"
+
+[comments_url]
+other = "URL"
+
+[contact_name]
+other = "Nama"
+
+[contact_email]
+other = "E-mel"
+
+[contact_email_help]
+other = "Saya tak akan dedahkan e-mel ini kepada sesipa."
+
+[contact_file]
+other = "Fail"
+
+[contact_subject]
+other = "Subjek"
+
+[contact_message]
+other = "Pesanan"
+
+[copyright]
+other = "Hak Cipta"
+
+[featured_posts]
+other = "Hantaran Unggulan"
+
+[font_size]
+other = "Ukuran Pasuan"
+
+[font_size_lg]
+other = "Besar"
+
+[font_size_md]
+other = "Sederhana"
+
+[font_size_sm]
+other = "Kecil"
+
+[font_size_xl]
+other = "Lebih Besar"
+
+[font_size_xs]
+other = "Lebih Kecil"
+
+[go_back]
+other = "Kembali"
+
+[home]
+other = "Utama"
+
+[language]
+other = "Bahasa"
+
+[liberapay]
+other = "Liberapay"
+
+[load_more]
+other = "Muat Lagi"
+
+[mode]
+other = "Mod"
+
+[noscript_info]
+other = "Pelayar anda tidak menyokong Javascript."
+
+[offline_title]
+other = "Nampaknya kau diluar talian."
+
+[offline_info]
+other = "Nampaknya adalah masalah dengan internet kau, cuba tengok."
+
+[pagination_title]
+other = "Halaman {{ .PageNumber }}"
+
+[palette]
+other = "Palette"
+
+[patreon]
+other = "Patreon"
+
+[paypal]
+other = "Paypal"
+
+[post_count]
+one = "{{ .Count }} hantaran"
+other = "{{ .Count }} hantaran"
+
+[post_date]
+other = "dibuat pada {{ .createdOn }}{{ with .updatedOn }}, dikemaskini pada {{ . }}{{ end }}."
+
+[posts]
+other = "Hantaran"
+
+[profile]
+other = "Profil"
+
+[read_more]
+other = "Baca lagi"
+
+[reading_time]
+other = "Bacaan {{ .ReadingTime }} minit"
+
+[recent_posts]
+other = "Hantaran terbaru"
+
+[related_posts]
+other = "Hantaran berkaitan"
+
+[repo_action_edit]
+other = "Sunting laman ini"
+
+[repo_action_view]
+other = "Lihat sumber laman ini"
+
+[repo_title]
+other = "Repositori"
+
+[search]
+other = "Gelintar"
+
+[search_advanced]
+other = "Lanjutan"
+
+[search_date]
+other = "Tarikh"
+
+[search_missing_keywords]
+other = "Masukkan kata kunci"
+
+[search_no_results]
+other = "Tak ada la..."
+
+[search_score]
+other = "Markah"
+
+[search_sorting]
+other = "Susunan"
+
+[search_stat]
+other = "Jumpa {{ .Total }} hasil carian"
+
+[sections]
+other = "Seksyen"
+
+[series]
+other = "Siri"
+
+[settings]
+other = "Tetapan"
+
+[social_artstation]
+other = "ArtStation"
+
+[social_bilibili]
+other = "Bilibili"
+
+[social_bitbucket]
+other = "Bitbucket"
+
+[social_discord]
+other = "Discord"
+
+[social_discourse]
+other = "Discourse"
+
+[social_dockerhub]
+other = "Docker Hub"
+
+[social_email]
+other = "E-mel"
+
+[social_facebook]
+other = "Facebook"
+
+[social_facebookgroup]
+other = "Kumpulan Facebook"
+
+[social_github]
+other = "GitHub"
+
+[social_gitlab]
+other = "GitLab"
+
+[social_instagram]
+other = "Instagram"
+
+[social_kaggle]
+other = "Kaggle"
+
+[social_lastfm]
+other = "Last.fm"
+
+[social_liberapay]
+other = "Liberapay"
+
+[social_linkedin]
+other = "LinkedIn"
+
+[social_mastodon]
+other = "Mastodon"
+
+[social_medium]
+other = "Medium"
+
+[social_patreon]
+other = "Patreon"
+
+[social_paypal]
+other = "PayPal"
+
+[social_pinterest]
+other = "Pinterest"
+
+[social_qq]
+other = "QQ"
+
+[social_quora]
+other = "Quora"
+
+[social_reddit]
+other = "Reddit"
+
+[social_rss]
+other = "RSS"
+
+[social_stackoverflow]
+other = "Stack Overflow"
+
+[social_telegram]
+other = "Telegram"
+
+[social_tipeee]
+other = "Tipeee"
+
+[social_tiktok]
+other = "TikTok"
+
+[social_tumblr]
+other = "Tumblr"
+
+[social_twitter]
+other = "Twitter"
+
+[social_website]
+other = "Laman Sesawang"
+
+[social_weibo]
+other = "Weibo"
+
+[social_xing]
+other = "XING"
+
+[social_youtube]
+other = "YouTube"
+
+[social_zhihu]
+other = "Zhihu"
+
+[stats]
+other = "Status"
+
+[table_of_contents]
+other = "Kandungan"
+
+[tags]
+other = "Tanda"
+
+[taxonomies]
+other = "Taksonomi"
+
+[tipeee]
+other = "Tipeee"
+
+[try_again]
+other = "Cuba lagi"
+
+[wechat]
+other = "WeChat"
