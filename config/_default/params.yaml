@@ -17,7 +17,7 @@ keywords: Hugo, Bootstrap, Blog Theme
 # logo: false # Disable Logo
 brand: HBS
 
-palette: purple # Default palette. Optional. You'll need to clear the browser cache after modifying this.
+palette: green # Default palette. Optional. You'll need to clear the browser cache after modifying this.
 # Available palettes. Default to ALL. Empty array means disable.
 # palettes:
 #  - blue
@@ -144,9 +144,9 @@ creativeCommons:
   # sa: true # Adaptations must be shared under the same terms.
 
 utterances:
-  repo: razonyang/hugo-theme-bootstrap-skeleton # Replace with your repository.
+  repo: niskala5570/sesaang # Replace with your repository.
   #issueTerm: pathname # pathname, url, title, og:title
-  label: comment
+  label: ulasan
   # By default, light and dark mode correspond to github-light and github-dark, respectively.
   # Optional values: github-light, github-dark, preferred-color-scheme, github-dark-orange, icy-dark, dark-blue, photon-dark.
   #theme:  
@@ -186,8 +186,8 @@ search:
   # debug: true
 
 reward:
-  alipay: images/reward/alipay.png
-  wechat: images/reward/wechat.png
+  # alipay: images/reward/alipay.png
+  # wechat: images/reward/wechat.png
   #paypal: images/reward/paypal.png
   #patreon: images/reward/patreon.png
   #liberapay: images/reward/liberapay.png
